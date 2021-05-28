@@ -1,0 +1,5 @@
+<application>
+<global>
+<parameter name="reloadConfigurationFiles" value="true"/>
+</global>
+</application>
